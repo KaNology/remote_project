@@ -3,3 +3,4 @@ test2x2
 test2x3
 test2x4
 test2x5
+test2x6
